@@ -1,0 +1,18 @@
+.indexPDFPage[data-v-ce82002c] {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.indexPDFPage > .contor[data-v-ce82002c] {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10PX 0;
+  border-bottom: 1PX solid #ddd;
+}
+.indexPDFPage > .baseContent[data-v-ce82002c] {
+  flex: 1;
+  overflow: auto;
+}
