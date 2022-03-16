@@ -1,0 +1,9 @@
+.demo[data-v-56c2bd78] {
+  width: 3.125rem;
+  height: 3.125rem;
+}
+.demo > div[data-v-56c2bd78] {
+  width: 1.5625rem;
+  height: 1.5625rem;
+  background: pink;
+}
