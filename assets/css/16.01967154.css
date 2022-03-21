@@ -1,0 +1,12 @@
+.chart[data-v-1f6dcce0] {
+  width: 360PX;
+  height: 360PX;
+}
+.indexComponentPage[data-v-3fad5b5a] {
+  text-align: center;
+}
+.indexComponentPage > .chartContent[data-v-3fad5b5a] {
+  flex: 1;
+  overflow: hidden;
+  overflow-y: auto;
+}
