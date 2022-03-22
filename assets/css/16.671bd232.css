@@ -1,0 +1,31 @@
+.doubleBoxPage[data-v-94433108] {
+  width: 100vw;
+  padding: 0 5PX;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.doubleBoxRedNum[data-v-94433108], .doubleBoxBlueNum[data-v-94433108] {
+  width: 100%;
+  border: 1PX solid silver;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10PX 0;
+}
+.doubleBoxRedNum > .boxNum[data-v-94433108], .doubleBoxBlueNum > .boxNum[data-v-94433108] {
+  margin: 5PX 0;
+  margin-left: 6PX;
+  width: 35PX;
+  height: 35PX;
+  background: red;
+  border-radius: 35PX;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  border: 1PX solid black;
+}
+.doubleBoxRedNum > .boxNum > span[data-v-94433108], .doubleBoxBlueNum > .boxNum > span[data-v-94433108] {
+  font-size: 18PX;
+}
+.reset[data-v-94433108] {
+  margin: 10PX;
+}
