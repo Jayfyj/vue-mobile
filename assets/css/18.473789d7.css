@@ -1,0 +1,34 @@
+.layOutIndex > .chooseContent[data-v-0715e29f] {
+  flex: 1;
+  overflow-y: auto;
+}
+.layOutIndex > .chooseContent .happyBoxPage[data-v-0715e29f] {
+  width: 100vw;
+  padding: 0 5PX;
+  box-sizing: border-box;
+}
+.layOutIndex > .chooseContent .happyBoxPage .happyBoxNum[data-v-0715e29f] {
+  width: 100%;
+  border: 1PX solid silver;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10PX 0;
+}
+.layOutIndex > .chooseContent .happyBoxPage .happyBoxNum > .boxNum[data-v-0715e29f] {
+  margin: 5PX 0;
+  margin-left: 6PX;
+  width: 35PX;
+  height: 35PX;
+  background: red;
+  border-radius: 35PX;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  border: 1PX solid black;
+}
+.layOutIndex > .chooseContent .happyBoxPage .happyBoxNum > .boxNum > span[data-v-0715e29f] {
+  font-size: 18PX;
+}
+.reset[data-v-0715e29f] {
+  margin: 10PX;
+}
